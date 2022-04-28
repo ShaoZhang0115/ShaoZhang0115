@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Human-AI Collaboration and Game AI (especially Human-AI Co-play).
+- 🌱 I’m currently learning Reinforcement Learning.
 <!--
 **ShaoZhang0115/ShaoZhang0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
