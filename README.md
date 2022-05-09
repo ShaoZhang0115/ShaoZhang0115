@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 👩🏻‍💻 I'm a PhD student in Shanghai Jiao Tong University.
+- 🎮 I'm also a game desginer and an UI/UX designer.
 - 🔭 I’m currently working on Human-AI Collaboration and Game AI (especially Human-AI Co-play).
 - 🌱 I’m currently learning Reinforcement Learning.
 <!--
