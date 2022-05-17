@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👩🏻‍💻 I'm a PhD student at Shanghai Jiao Tong University.
 - 🎮 I'm also a game desginer and an UI/UX designer.
-- 🔭 I’m currently working on Human-AI Collaboration and Game AI (especially Human-AI Co-play).
+- 🔭 I’m currently working on Human-AI Collaboration and Human-AI Co-play.
 - 🌱 I’m currently learning Reinforcement Learning.
 <!--
 **ShaoZhang0115/ShaoZhang0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
