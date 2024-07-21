@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 👩🏻‍💻 I'm a PhD student at Shanghai Jiao Tong University.
-- 🤖 I'm now a visiting student at Northeastern University, Boston, MA, USA.
+- 👩🏻‍💻 I'm a PhD candidate at Shanghai Jiao Tong University.
 - 🎮 I'm also a game desginer and an UI/UX designer.
 - 🔭 I’m currently working on Human-AI Collaboration and Human-AI Co-play.
 - 🌱 I’m currently learning Reinforcement Learning.
