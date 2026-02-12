@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 👩🏻‍💻 I'm a PhD candidate at Shanghai Jiao Tong University.
+- 👩🏻‍💻 I got my doctoral degree from Shanghai Jiao Tong University.
+- 🔭 My research interests include Human-AI Collaboration and Multi-agent System.
 - 🎮 I'm also a game desginer and an UI/UX designer.
-- 🔭 I’m currently working on Human-AI Collaboration and Human-AI Co-play.
-- 🌱 I’m currently learning Reinforcement Learning.
+- 👾 I teach AI agents (both RL and LLMs) to play with humans.
 <!--
 **ShaoZhang0115/ShaoZhang0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
